@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dixith417 
-- 👀 I’m interested in front-end web Development.
-- 🌱 I’m currently learning javascript, css and planning to learn React as soon as possible. 
-- 💞️ I’m looking to collaborate on web apps to make them interactive and do some fun coding.
+- 👀 I’m interested in coding and software development.
+- 🌱 I’m currently a software intern. 
+- 💞️ I’m looking to learn and have some fun as well.
 - 📫 How to reach me by email ---> "dixith417@gmail.com"
 
 <!---
